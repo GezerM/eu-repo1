@@ -1,3 +1,7 @@
 eu5 is learning git and github
 
 EU5 like short videos
+
+now i hae published my local connection 
+
+from this point on we will just puch local commits to remore repo
